@@ -167,12 +167,44 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
   <tr>
     <td><strong>🗑️ RemindToDeleteApps</strong></td>
     <td>App uninstallation reminders</td>
-    <td><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteApps"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square"></a></td>
-  </tr>
-  <tr>
-    <td><strong>📁 RemindToDeleteMedia</strong></td>
-    <td>Media cleanup reminders</td>
-    <td><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteMedia"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square"></a></td>
+    <td><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteApps"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square"></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudarshan Chaudhari - Android Developer & Testing Expert</title>
+    <meta name="description" content="Software Testing Expert with 13+ years experience, Android Developer, 15+ apps, 39+ GitHub repositories">
+    <meta name="keywords" content="Android Developer, Software Testing, Kotlin, Java, GitHub, Portfolio, Bangkok, Thailand">
+    <meta name="author" content="Sudarshan Chaudhari">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Sudarshan Chaudhari - Android Developer & Testing Expert">
+    <meta property="og:description" content="Software Testing Expert with 13+ years experience, Android Developer, 15+ apps">
+    <meta property="og:image" content="https://sudarshanchaudhari.github.io/github-portfolio/og-image.png">
+    <meta property="og:url" content="https://sudarshanchaudhari.github.io/github-portfolio/">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Sudarshan Chaudhari - Android Developer & Testing Expert">
+    <meta name="twitter:description" content="Software Testing Expert with 13+ years experience, Android Developer, 15+ apps">
+    <meta name="twitter:image" content="https://sudarshanchaudhari.github.io/github-portfolio/og-image.png">
+    
+    <!-- Performance Optimizations -->
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="https://api.github.com">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Security Headers -->
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-Frame-Options" content="DENY">
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+</head>
+</td>
   </tr>
 </table>
 
