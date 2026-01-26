@@ -61,8 +61,12 @@ I've developed several Android applications focused on productivity and lifestyl
 - **Work**: [@screencloud](https://github.com/screencloud)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDARSHANCHAUDHARI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHANCHAUDHARI&theme=radical)
+- 📁 **39+ Repositories**
+- 🔒 **22 Private Repositories**
+- 🌐 **17 Public Repositories**
+- 📱 **15+ Android Apps**
+- 📋 **12 Privacy Policy Repositories**
+- 🛠️ **2 Development Resources**
 
 ## 🏆 Achievements
 - 📱 **39+ GitHub Repositories**
