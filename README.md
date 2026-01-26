@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SUDARSHANCHAUDHARI/github-portfolio/main/banner.svg" alt="Profile Banner" width="100%">
-</div>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, I'm SUDARSHAN KISHOR CHAUDHARI
