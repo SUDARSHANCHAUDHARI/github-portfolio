@@ -271,7 +271,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Life%20Motto-"Innovation%20Through%20Testing"-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Life%20Motto-Innovation%20Through%20Testing-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Current%20Location-Bangkok%2C%20Thailand-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Timezone-UTC%2B07%3A00-success?style=for-the-badge">
 </div>
