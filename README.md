@@ -41,7 +41,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
         <p>15+ Apps</p>
       </td>
       <td align="center" width="150">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712036.png" width="60" height="60">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="60" height="60">
         <p><strong>Bot Creator</strong></p>
         <p>Automation</p>
       </td>
