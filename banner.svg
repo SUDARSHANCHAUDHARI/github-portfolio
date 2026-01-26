@@ -1,0 +1,65 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f0f0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+  
+  <!-- Pattern Overlay -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <rect width="40" height="40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  </pattern>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  
+  <!-- Main Content -->
+  <g transform="translate(100, 100)">
+    <!-- Title -->
+    <text font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#textGradient)">
+      SUDARSHAN KISHOR CHAUDHARI
+    </text>
+    
+    <!-- Subtitle -->
+    <text font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" y="50">
+      Software Testing Expert & Android Developer
+    </text>
+    
+    <!-- Stats -->
+    <g transform="translate(0, 90)">
+      <rect x="0" y="0" width="150" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+      <text x="75" y="25" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+        39+ Repositories
+      </text>
+      
+      <rect x="170" y="0" width="150" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+      <text x="245" y="25" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+        15+ Android Apps
+      </text>
+      
+      <rect x="340" y="0" width="150" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+      <text x="415" y="25" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+        13+ Years Experience
+      </text>
+    </g>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <circle cx="1050" cy="80" r="30" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="1100" cy="120" r="20" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="1000" cy="140" r="25" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Location -->
+  <g transform="translate(100, 250)">
+    <text font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.8)">
+      📍 Bangkok, Thailand | 🇮🇳 Originally from India | 🤖 Open to Collaboration
+    </text>
+  </g>
+</svg>
