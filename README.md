@@ -241,7 +241,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/2521/2521814.png" width="60" height="60">
+        <img src="https://cdn-icons-png.flaticon.com/512/2521/2521815.png" width="60" height="60">
         <p><strong>39+ GitHub Repos</strong></p>
         <p>Active Developer</p>
       </td>
