@@ -41,6 +41,11 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
         <p><strong>Bot Creator</strong></p>
         <p>Automation</p>
       </td>
+      <td align="center" width="150">
+        <img src="https://cdn-icons-png.flaticon.com/512/2721/2721620.png" width="60" height="60">
+        <p><strong>AI Builder</strong></p>
+        <p>Web Apps</p>
+      </td>
     </tr>
   </table>
 </div>
@@ -57,12 +62,31 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
   <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white">
 </div>
+
+## 🌐 Web Apps & AI Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stack-React%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Claude%20API-D97757?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Private-lightgrey?style=for-the-badge">
+</div>
+
+<table>
+  <tr>
+    <td><strong>🐕 DogSpeak</strong></td>
+    <td>Datadog plain English translator — paste any alert, metric, log, or monitor and get a clear explanation for engineers, managers, or non-technical teammates. Powered by Claude AI with streaming responses, severity levels, and translation history.</td>
+    <td><img src="https://img.shields.io/badge/React%20%2B%20Vite-Private-lightgrey?style=flat-square&logo=react"></td>
+  </tr>
+</table>
 
 ## 📱 My Android Apps Portfolio
 
@@ -161,7 +185,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
     <td><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteApps"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square"></a></td>
   </tr>
   <tr>
-    <td><strong>� RemindToDeleteMedia</strong></td>
+    <td><strong>🗑️ RemindToDeleteMedia</strong></td>
     <td>Media cleanup reminders</td>
     <td><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteMedia"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square"></a></td>
   </tr>
@@ -223,13 +247,14 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
 ## 📊 GitHub Portfolio Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-39%2B-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Private-22-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total%20Repos-40%2B-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private-23-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Public-17-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Android%20Apps-15%2B-purple?style=for-the-badge">
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Web%20Apps-1-61DAFB?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Privacy%20Policies-12-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Documentation-1-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Bots-2-cyan?style=for-the-badge">
@@ -243,7 +268,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
     <tr>
       <td align="center" width="200">
         <img src="https://cdn-icons-png.flaticon.com/512/2521/2521816.png" width="60" height="60">
-        <p><strong>39+ GitHub Repos</strong></p>
+        <p><strong>40+ GitHub Repos</strong></p>
         <p>Active Developer</p>
       </td>
       <td align="center" width="200">
@@ -270,6 +295,7 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Android%20Development-4CAF50?style=for-the-badge">
   <img src="https://img.shields.io/badge/Interest-Automation%20%26%20Bots-FF9800?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20Web%20Apps-D97757?style=for-the-badge">
   <img src="https://img.shields.io/badge/Passion-Open%20Source-2196F3?style=for-the-badge">
 </div>
 
