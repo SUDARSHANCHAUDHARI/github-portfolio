@@ -97,6 +97,7 @@ main,
     display: flex;
     align-items: center;
     gap: 22px;
+    flex-wrap: wrap;
 }
 
 .nav-links a {
@@ -109,6 +110,24 @@ main,
 .nav-links a:hover,
 .nav-links a:focus-visible {
     color: var(--ink);
+}
+
+.nav-badge,
+.hero-badge,
+.jump-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    padding: 0 12px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 251, 245, 0.8);
+    color: var(--accent-deep);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.74rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-decoration: none;
 }
 
 .nav-toggle {
@@ -167,6 +186,13 @@ main,
 .hero h1 {
     max-width: 10ch;
     font-size: clamp(3rem, 7.8vw, 5.5rem);
+}
+
+.hero-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 0 16px;
 }
 
 .hero-text,
@@ -361,6 +387,16 @@ main,
 .cluster-text {
     color: var(--muted);
     line-height: 1.65;
+}
+
+.section-jump {
+    padding-top: 6px;
+}
+
+.jump-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
 }
 
 .section-heading {
@@ -651,6 +687,14 @@ main,
 .filter-chip:focus-visible {
     transform: translateY(-2px);
     border-color: rgba(126, 47, 25, 0.16);
+}
+
+.jump-links a:hover,
+.jump-links a:focus-visible,
+.nav-badge:hover,
+.hero-badge:hover {
+    border-color: rgba(126, 47, 25, 0.16);
+    background: rgba(196, 81, 45, 0.08);
 }
 
 .project-preview {
@@ -1086,6 +1130,7 @@ main,
         padding-top: 8px;
         flex-direction: column;
         align-items: flex-start;
+        gap: 12px;
     }
 
     .nav-links.is-open {
@@ -1107,16 +1152,55 @@ main,
 
     .hero {
         padding-top: 40px;
+        gap: 20px;
     }
 
     .hero-copy,
     .hero-panel,
+    .hero-spotlight,
     .intro,
     .project-card,
     .strength-card,
     .contact-section,
     .timeline-item {
         padding: 24px;
+    }
+
+    .hero h1 {
+        max-width: 11ch;
+        font-size: clamp(2.8rem, 12vw, 4.4rem);
+    }
+
+    .hero-text,
+    .intro-grid p,
+    .project-card p,
+    .strength-card p,
+    .timeline-item p,
+    .contact-copy,
+    .hero-note p,
+    .hero-footnote,
+    .section-note {
+        font-size: 0.98rem;
+        line-height: 1.65;
+    }
+
+    .project-preview {
+        min-height: 152px;
+        margin-bottom: 18px;
+    }
+
+    .feature-card h3 {
+        font-size: 1.28rem;
+    }
+
+    .proof-item,
+    .mini-stat,
+    .open-to-grid .mini-stat {
+        padding: 20px;
+    }
+
+    .section-heading {
+        margin-bottom: 18px;
     }
 }
 
