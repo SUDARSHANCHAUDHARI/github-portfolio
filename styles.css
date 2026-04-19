@@ -422,6 +422,10 @@ main,
     font-size: clamp(2.3rem, 5vw, 4.1rem);
 }
 
+.section-heading-wide h2 {
+    max-width: 18ch;
+}
+
 .intro {
     padding: 32px;
     border-radius: var(--radius);
@@ -574,6 +578,50 @@ main,
     margin: 12px 0 0;
     padding-top: 12px;
     border-top: 1px solid rgba(29, 26, 23, 0.08);
+}
+
+.top-ten {
+    padding: 28px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 251, 245, 0.94) 28%),
+        rgba(255, 251, 245, 0.82);
+    box-shadow: var(--shadow);
+}
+
+.top-list {
+    margin: 0;
+    padding-left: 28px;
+    display: grid;
+    gap: 14px;
+}
+
+.top-list li {
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(29, 26, 23, 0.08);
+    color: var(--muted);
+}
+
+.top-list li:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.top-list li::marker {
+    font-weight: 700;
+    color: var(--accent-deep);
+}
+
+.top-list strong {
+    color: var(--ink);
+    font-size: 1.1rem;
+}
+
+.top-list span {
+    display: inline;
+    margin-left: 0.35rem;
+    line-height: 1.65;
 }
 
 .repo-directory {
@@ -1207,6 +1255,19 @@ main,
     .project-preview {
         min-height: 152px;
         margin-bottom: 18px;
+    }
+
+    .top-ten {
+        padding: 22px;
+    }
+
+    .top-list {
+        gap: 12px;
+        padding-left: 24px;
+    }
+
+    .top-list strong {
+        font-size: 1rem;
     }
 
     .feature-card h3 {
