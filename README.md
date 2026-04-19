@@ -149,51 +149,51 @@ These repositories are part of the portfolio, but they are not publicly accessib
 
 ### Private Android Apps, Bots, and Consumer Products
 <table>
-  <tr><td><strong>AppWhoosh</strong></td><td>Sound effects and app launch audio toolkit for Android.</td><td>Private</td></tr>
-  <tr><td><strong>FitQuick</strong></td><td>Quick fitness tracking app for Android.</td><td>Private</td></tr>
-  <tr><td><strong>FocusPulse</strong></td><td>Deep work productivity app.</td><td>Private</td></tr>
-  <tr><td><strong>GratitudeGlow</strong></td><td>Daily gratitude journaling app.</td><td>Private</td></tr>
-  <tr><td><strong>GravityWins</strong></td><td>Android app project.</td><td>Private</td></tr>
-  <tr><td><strong>HabitForge</strong></td><td>Gamified habit tracker with RPG-style elements.</td><td>Private</td></tr>
-  <tr><td><strong>HydraTrack</strong></td><td>Smart hydration reminder app.</td><td>Private</td></tr>
-  <tr><td><strong>LanguageBridgeBot</strong></td><td>LINE translation bot supporting 35+ languages.</td><td>Private</td></tr>
-  <tr><td><strong>LifeChronicle</strong></td><td>Personal life journaling and memory keeping app.</td><td>Private</td></tr>
-  <tr><td><strong>MakeStorage</strong></td><td>Storage management and file organization utility.</td><td>Private</td></tr>
-  <tr><td><strong>ManifestMojo</strong></td><td>Manifestation and motivation app.</td><td>Private</td></tr>
-  <tr><td><strong>MoodFlow</strong></td><td>Mood tracking Android app.</td><td>Private</td></tr>
-  <tr><td><strong>MyFamilyTracker</strong></td><td>Real-time family location tracking and sharing app.</td><td>Private</td></tr>
-  <tr><td><strong>MyMacMario</strong></td><td>macOS app with Mario-inspired UI and interactions.</td><td>Private</td></tr>
-  <tr><td><strong>MyNotes</strong></td><td>Note-taking app.</td><td>Private</td></tr>
-  <tr><td><strong>PocketDeskiesAndroid</strong></td><td>Desktop companion widgets and quick-access tools for Android.</td><td>Private</td></tr>
-  <tr><td><strong>PocketDeskiesMacOS</strong></td><td>Desktop companion widgets and quick-access tools for macOS.</td><td>Private</td></tr>
-  <tr><td><strong>RainLock</strong></td><td>Smart touch blocking app for rainy conditions.</td><td>Private</td></tr>
-  <tr><td><strong>RemindToDeleteApps</strong></td><td>App uninstall reminder utility.</td><td>Private</td></tr>
-  <tr><td><strong>RemindToDeleteMedia</strong></td><td>Media deletion reminder app.</td><td>Private</td></tr>
-  <tr><td><strong>SleepSync</strong></td><td>Sleep cycle optimizer app.</td><td>Private</td></tr>
-  <tr><td><strong>SoFarYetSoClose</strong></td><td>Couples emotional connection app.</td><td>Private</td></tr>
-  <tr><td><strong>SpendWise</strong></td><td>Personal finance tracker and budgeting app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/AppWhoosh">AppWhoosh</a></strong></td><td>Sound effects and app launch audio toolkit for Android.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/FitQuick">FitQuick</a></strong></td><td>Quick fitness tracking app for Android.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/FocusPulse">FocusPulse</a></strong></td><td>Deep work productivity app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/GratitudeGlow">GratitudeGlow</a></strong></td><td>Daily gratitude journaling app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/GravityWins">GravityWins</a></strong></td><td>Android app project.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/HabitForge">HabitForge</a></strong></td><td>Gamified habit tracker with RPG-style elements.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/HydraTrack">HydraTrack</a></strong></td><td>Smart hydration reminder app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/LanguageBridgeBot">LanguageBridgeBot</a></strong></td><td>LINE translation bot supporting 35+ languages.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/LifeChronicle">LifeChronicle</a></strong></td><td>Personal life journaling and memory keeping app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MakeStorage">MakeStorage</a></strong></td><td>Storage management and file organization utility.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/ManifestMojo">ManifestMojo</a></strong></td><td>Manifestation and motivation app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MoodFlow">MoodFlow</a></strong></td><td>Mood tracking Android app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MyFamilyTracker">MyFamilyTracker</a></strong></td><td>Real-time family location tracking and sharing app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MyMacMario">MyMacMario</a></strong></td><td>macOS app with Mario-inspired UI and interactions.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MyNotes">MyNotes</a></strong></td><td>Note-taking app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PocketDeskiesAndroid">PocketDeskiesAndroid</a></strong></td><td>Desktop companion widgets and quick-access tools for Android.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PocketDeskiesMacOS">PocketDeskiesMacOS</a></strong></td><td>Desktop companion widgets and quick-access tools for macOS.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/RainLock">RainLock</a></strong></td><td>Smart touch blocking app for rainy conditions.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteApps">RemindToDeleteApps</a></strong></td><td>App uninstall reminder utility.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/RemindToDeleteMedia">RemindToDeleteMedia</a></strong></td><td>Media deletion reminder app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SleepSync">SleepSync</a></strong></td><td>Sleep cycle optimizer app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SoFarYetSoClose">SoFarYetSoClose</a></strong></td><td>Couples emotional connection app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SpendWise">SpendWise</a></strong></td><td>Personal finance tracker and budgeting app.</td><td>Private</td></tr>
 </table>
 
 ### Private AI, QA, Automation, and Developer Tooling
 <table>
-  <tr><td><strong>AutoQALabs</strong></td><td>Automated QA testing lab and experimentation workspace.</td><td>Private</td></tr>
-  <tr><td><strong>AutoStackAI</strong></td><td>Automated AI stack configuration and deployment.</td><td>Private</td></tr>
-  <tr><td><strong>BarStripeLab</strong></td><td>Experimental lab for UI components and prototypes.</td><td>Private</td></tr>
-  <tr><td><strong>ClaudeWrangler</strong></td><td>Claude AI workflow management and prompt orchestration.</td><td>Private</td></tr>
-  <tr><td><strong>Consilience</strong></td><td>Interdisciplinary knowledge synthesis and learning app.</td><td>Private</td></tr>
-  <tr><td><strong>DevBrainOS</strong></td><td>Local-first codebase intelligence and multi-agent memory system.</td><td>Private</td></tr>
-  <tr><td><strong>DreamWeave</strong></td><td>Development documentation and modern software practice guides.</td><td>Private</td></tr>
-  <tr><td><strong>FacelessEngine</strong></td><td>Faceless content creation and automation engine.</td><td>Private</td></tr>
-  <tr><td><strong>GitGetAppVault</strong></td><td>Enterprise-grade GitHub repository browser.</td><td>Private</td></tr>
-  <tr><td><strong>MCPRegistry</strong></td><td>Curated registry and discovery tool for MCP servers.</td><td>Private</td></tr>
-  <tr><td><strong>OrbiAgents</strong></td><td>Multi-agent AI orchestration platform.</td><td>Private</td></tr>
-  <tr><td><strong>PushyUncommit</strong></td><td>Reminder utility to push uncommitted work.</td><td>Private</td></tr>
-  <tr><td><strong>RepoMind</strong></td><td>AI-powered repository analysis and codebase intelligence.</td><td>Private</td></tr>
-  <tr><td><strong>SignageCheckAI</strong></td><td>AI-powered signage and display content verification tool.</td><td>Private</td></tr>
-  <tr><td><strong>SkillForge</strong></td><td>CLI tool for auditing and managing AI prompt skill files.</td><td>Private</td></tr>
-  <tr><td><strong>Synaptiq</strong></td><td>Production AI agent debugging, loop detection, and cost tracking.</td><td>Private</td></tr>
-  <tr><td><strong>TokenOPS</strong></td><td>API token management and operations tooling.</td><td>Private</td></tr>
-  <tr><td><strong>website-monitor</strong></td><td>Website monitoring tool.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/AutoQALabs">AutoQALabs</a></strong></td><td>Automated QA testing lab and experimentation workspace.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/AutoStackAI">AutoStackAI</a></strong></td><td>Automated AI stack configuration and deployment.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/BarStripeLab">BarStripeLab</a></strong></td><td>Experimental lab for UI components and prototypes.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/ClaudeWrangler">ClaudeWrangler</a></strong></td><td>Claude AI workflow management and prompt orchestration.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/Consilience">Consilience</a></strong></td><td>Interdisciplinary knowledge synthesis and learning app.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DevBrainOS">DevBrainOS</a></strong></td><td>Local-first codebase intelligence and multi-agent memory system.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DreamWeave">DreamWeave</a></strong></td><td>Development documentation and modern software practice guides.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/FacelessEngine">FacelessEngine</a></strong></td><td>Faceless content creation and automation engine.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/GitGetAppVault">GitGetAppVault</a></strong></td><td>Enterprise-grade GitHub repository browser.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/MCPRegistry">MCPRegistry</a></strong></td><td>Curated registry and discovery tool for MCP servers.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/OrbiAgents">OrbiAgents</a></strong></td><td>Multi-agent AI orchestration platform.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PushyUncommit">PushyUncommit</a></strong></td><td>Reminder utility to push uncommitted work.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/RepoMind">RepoMind</a></strong></td><td>AI-powered repository analysis and codebase intelligence.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SignageCheckAI">SignageCheckAI</a></strong></td><td>AI-powered signage and display content verification tool.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/SkillForge">SkillForge</a></strong></td><td>CLI tool for auditing and managing AI prompt skill files.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/Synaptiq">Synaptiq</a></strong></td><td>Production AI agent debugging, loop detection, and cost tracking.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/TokenOPS">TokenOPS</a></strong></td><td>API token management and operations tooling.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/website-monitor">website-monitor</a></strong></td><td>Website monitoring tool.</td><td>Private</td></tr>
 </table>
 
 ### Public Privacy Policy and Compliance Repositories
@@ -226,9 +226,9 @@ These repositories are part of the portfolio, but they are not publicly accessib
 
 ### Archived or Superseded Private Repositories
 <table>
-  <tr><td><strong>DroidForge-Old</strong></td><td>Archived repository superseded by DroidForge.</td><td>Private</td></tr>
-  <tr><td><strong>KotlinSense-old</strong></td><td>Archived repository superseded by KotlinSense.</td><td>Private</td></tr>
-  <tr><td><strong>PlayCraft-old</strong></td><td>Archived repository superseded by PlayCraft.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DroidForge-Old">DroidForge-Old</a></strong></td><td>Archived repository superseded by DroidForge.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/KotlinSense-old">KotlinSense-old</a></strong></td><td>Archived repository superseded by KotlinSense.</td><td>Private</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PlayCraft-old">PlayCraft-old</a></strong></td><td>Archived repository superseded by PlayCraft.</td><td>Private</td></tr>
 </table>
 
 ## 🧭 What This Portfolio Shows
