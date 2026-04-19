@@ -71,6 +71,7 @@ let activeFilter = "all";
 
 function updateRepoFilters() {
     const searchValue = (repoSearch?.value || "").trim().toLowerCase();
+    const shouldAutoOpen = activeFilter !== "all" || Boolean(searchValue);
 
     repoGroups.forEach((group) => {
         const summary = group.querySelector("summary");
@@ -82,7 +83,7 @@ function updateRepoFilters() {
         const shouldShow = matchesFilter && matchesSearch;
 
         group.classList.toggle("is-hidden", !shouldShow);
-        if (shouldShow && searchValue) {
+        if (shouldShow && shouldAutoOpen) {
             group.open = true;
         }
     });
