@@ -453,29 +453,28 @@ main,
     margin-bottom: 0;
 }
 
-.projects-panel > .section-heading,
-.projects-panel > .feature-cluster,
-.projects-panel > .feature-grid,
-.projects-panel > .filter-bar,
-.projects-panel > .repo-directory {
-    margin-bottom: 24px;
+.projects-stack {
+    display: grid;
+    gap: 24px;
 }
 
-.projects-panel > .section-heading:last-of-type,
-.projects-panel > .repo-directory:last-of-type {
-    margin-bottom: 0;
-}
-
-.subsection-panel {
-    margin: 4px 0 24px;
-}
-
-.subsection-panel .top-ten {
+.section-panel .top-ten {
     padding: 0;
     border: 0;
     border-radius: 0;
     background: transparent;
     box-shadow: none;
+}
+
+.section-panel .feature-cluster,
+.section-panel .feature-grid,
+.section-panel .filter-bar,
+.section-panel .repo-directory {
+    margin-bottom: 24px;
+}
+
+.section-panel .repo-directory:last-child {
+    margin-bottom: 0;
 }
 
 .intro-grid {
