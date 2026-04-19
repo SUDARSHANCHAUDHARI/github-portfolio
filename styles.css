@@ -130,6 +130,7 @@ main,
 
 .hero-copy,
 .hero-panel,
+.hero-spotlight,
 .project-card,
 .strength-card,
 .contact-section,
@@ -164,8 +165,8 @@ main,
 }
 
 .hero h1 {
-    max-width: 11ch;
-    font-size: clamp(3.4rem, 9vw, 6.6rem);
+    max-width: 10ch;
+    font-size: clamp(3rem, 7.8vw, 5.5rem);
 }
 
 .hero-text,
@@ -235,7 +236,64 @@ main,
     background:
         linear-gradient(180deg, rgba(126, 47, 25, 0.06), rgba(255, 250, 242, 0.9)),
         var(--surface);
-    align-self: end;
+}
+
+.hero-side {
+    display: grid;
+    gap: 22px;
+    align-self: stretch;
+}
+
+.hero-spotlight {
+    padding: 24px;
+    border-radius: var(--radius);
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 250, 242, 0.92)),
+        var(--surface);
+}
+
+.highlight-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 18px;
+}
+
+.highlight-pills span {
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: rgba(196, 81, 45, 0.1);
+    color: var(--accent-deep);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.mini-feature-list {
+    display: grid;
+    gap: 14px;
+}
+
+.mini-feature-list article {
+    display: grid;
+    gap: 4px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--line);
+}
+
+.mini-feature-list article:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.mini-feature-list strong {
+    font-size: 1rem;
+}
+
+.mini-feature-list span {
+    color: var(--muted);
+    line-height: 1.55;
 }
 
 .panel-title,
