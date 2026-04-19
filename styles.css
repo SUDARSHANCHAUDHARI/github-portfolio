@@ -245,53 +245,36 @@ main,
 }
 
 .hero-spotlight {
-    padding: 24px;
+    padding: 28px;
     border-radius: var(--radius);
     background:
-        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 250, 242, 0.92)),
+        linear-gradient(180deg, rgba(126, 47, 25, 0.06), rgba(255, 250, 242, 0.9)),
         var(--surface);
 }
 
-.highlight-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 18px;
-}
-
-.highlight-pills span {
-    padding: 8px 12px;
-    border-radius: 999px;
-    background: rgba(196, 81, 45, 0.1);
-    color: var(--accent-deep);
-    font-family: "IBM Plex Mono", monospace;
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-}
-
-.mini-feature-list {
+.strength-stack {
     display: grid;
-    gap: 14px;
+    gap: 16px;
 }
 
-.mini-feature-list article {
+.strength-stack article {
     display: grid;
-    gap: 4px;
-    padding-bottom: 14px;
+    gap: 6px;
+    padding-bottom: 16px;
     border-bottom: 1px solid var(--line);
 }
 
-.mini-feature-list article:last-child {
+.strength-stack article:last-child {
     padding-bottom: 0;
     border-bottom: 0;
 }
 
-.mini-feature-list strong {
-    font-size: 1rem;
+.strength-stack strong {
+    font-size: 1.08rem;
+    line-height: 1.2;
 }
 
-.mini-feature-list span {
+.strength-stack span {
     color: var(--muted);
     line-height: 1.55;
 }
