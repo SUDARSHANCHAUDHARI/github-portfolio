@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Sudarshan Chaudhari portfolio preview</title>
+  <desc id="desc">Social preview card highlighting QA leadership, Android building, automation, and verified repository counts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f1e7" />
+      <stop offset="55%" stop-color="#f3e8d7" />
+      <stop offset="100%" stop-color="#efd9bc" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c4512d" />
+      <stop offset="100%" stop-color="#7e2f19" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#6b4420" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1060" cy="110" r="140" fill="#c4512d" opacity="0.10" />
+  <circle cx="980" cy="520" r="180" fill="#ffffff" opacity="0.35" />
+
+  <g filter="url(#shadow)">
+    <rect x="68" y="70" width="1064" height="490" rx="38" fill="#fffaf2" opacity="0.92" />
+  </g>
+
+  <rect x="108" y="110" width="92" height="92" rx="28" fill="#1d1a17" />
+  <text x="154" y="164" text-anchor="middle" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="40" font-weight="800" fill="#fffaf2">SC</text>
+
+  <text x="232" y="156" font-family="'IBM Plex Mono', monospace" font-size="22" letter-spacing="3" fill="#7e2f19">QA LEADER · ANDROID BUILDER · AUTOMATION</text>
+  <text x="108" y="258" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="72" font-weight="800" fill="#1d1a17">Sudarshan Chaudhari</text>
+  <text x="108" y="334" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="38" font-weight="600" fill="#1d1a17">I help teams ship better products with stronger quality</text>
+  <text x="108" y="382" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="38" font-weight="600" fill="#1d1a17">and sharper execution across public and private work.</text>
+
+  <g>
+    <rect x="108" y="438" width="262" height="72" rx="26" fill="#1d1a17" />
+    <text x="239" y="483" text-anchor="middle" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="28" font-weight="700" fill="#fffaf2">81 verified repos</text>
+  </g>
+
+  <g>
+    <rect x="780" y="154" width="280" height="292" rx="30" fill="#fff7ee" stroke="#e6d6c1" />
+    <text x="816" y="202" font-family="'IBM Plex Mono', monospace" font-size="20" letter-spacing="2" fill="#7e2f19">SNAPSHOT</text>
+    <text x="816" y="278" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="64" font-weight="800" fill="#1d1a17">37</text>
+    <text x="816" y="314" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="24" fill="#5a5248">public repositories</text>
+    <line x1="816" y1="346" x2="1024" y2="346" stroke="#e6d6c1" />
+    <text x="816" y="414" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="64" font-weight="800" fill="#1d1a17">44</text>
+    <text x="816" y="450" font-family="'Bricolage Grotesque', 'Avenir Next', sans-serif" font-size="24" fill="#5a5248">private repositories</text>
+  </g>
+
+  <text x="108" y="548" font-family="'IBM Plex Mono', monospace" font-size="20" letter-spacing="2" fill="#7e2f19">VERIFIED ON APRIL 19, 2026 · BANGKOK, THAILAND</text>
+</svg>

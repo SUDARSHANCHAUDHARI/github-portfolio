@@ -333,6 +333,36 @@ main,
     padding: 26px 0;
 }
 
+.proof-strip {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 18px;
+    padding-top: 8px;
+}
+
+.proof-item {
+    padding: 22px 24px;
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 251, 245, 0.86)),
+        rgba(255, 251, 245, 0.8);
+    box-shadow: var(--shadow);
+    display: grid;
+    gap: 8px;
+}
+
+.proof-item strong {
+    font-size: 1.2rem;
+    line-height: 1.2;
+}
+
+.proof-item span,
+.cluster-text {
+    color: var(--muted);
+    line-height: 1.65;
+}
+
 .section-heading {
     margin-bottom: 22px;
 }
@@ -361,6 +391,22 @@ main,
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 22px;
+}
+
+.feature-cluster {
+    margin-bottom: 18px;
+}
+
+.cluster-heading {
+    max-width: 58ch;
+}
+
+.cluster-heading .eyebrow {
+    margin-bottom: 8px;
+}
+
+.cluster-text {
+    margin: 0;
 }
 
 .stat-band {
@@ -647,6 +693,191 @@ main,
         linear-gradient(135deg, #1d7c63, #8acb88 58%, #eef6c9);
 }
 
+.preview-droidforge {
+    background:
+        radial-gradient(circle at 78% 18%, rgba(255, 255, 255, 0.26), transparent 16%),
+        linear-gradient(135deg, #6d3e16, #d57f33 58%, #ffe2b8);
+}
+
+.preview-droidforge::before {
+    top: 28px;
+    left: 26px;
+    width: 126px;
+    height: 126px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        150px 18px 0 -26px rgba(255, 255, 255, 0.22),
+        180px 70px 0 -38px rgba(29, 26, 23, 0.14);
+}
+
+.preview-droidforge::after {
+    right: 30px;
+    bottom: 30px;
+    width: 120px;
+    height: 38px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.38);
+}
+
+.preview-kotlinsense {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.28), transparent 18%),
+        linear-gradient(135deg, #1e295b, #5068d7 56%, #dce3ff);
+}
+
+.preview-kotlinsense::before {
+    top: 26px;
+    left: 28px;
+    width: 148px;
+    height: 104px;
+    border-radius: 26px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        0 108px 0 -34px rgba(255, 255, 255, 0.18),
+        170px 26px 0 -56px rgba(255, 255, 255, 0.22);
+}
+
+.preview-kotlinsense::after {
+    right: 28px;
+    top: 32px;
+    width: 92px;
+    height: 112px;
+    border-radius: 22px;
+    background: rgba(255, 255, 255, 0.26);
+}
+
+.preview-playcraft {
+    background:
+        radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.22), transparent 16%),
+        linear-gradient(135deg, #244b2d, #4f9c60 55%, #dff3ce);
+}
+
+.preview-playcraft::before {
+    top: 28px;
+    left: 28px;
+    width: 104px;
+    height: 104px;
+    border-radius: 28px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        118px 0 0 -18px rgba(255, 255, 255, 0.22),
+        146px 60px 0 -32px rgba(255, 255, 255, 0.18);
+}
+
+.preview-playcraft::after {
+    right: 30px;
+    bottom: 30px;
+    width: 128px;
+    height: 42px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.34);
+}
+
+.preview-privacypilot {
+    background:
+        radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.28), transparent 16%),
+        linear-gradient(135deg, #6a2d3d, #ce617f 54%, #ffd9e7);
+}
+
+.preview-privacypilot::before {
+    top: 26px;
+    left: 28px;
+    width: 132px;
+    height: 132px;
+    border-radius: 32px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.preview-privacypilot::after {
+    right: 28px;
+    top: 34px;
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.24);
+    box-shadow: 0 114px 0 -40px rgba(255, 255, 255, 0.18);
+}
+
+.preview-devbrain {
+    background:
+        radial-gradient(circle at 78% 16%, rgba(255, 255, 255, 0.22), transparent 16%),
+        linear-gradient(135deg, #0f3d52, #1d7fa1 52%, #d4f5ff);
+}
+
+.preview-devbrain::before {
+    top: 24px;
+    left: 24px;
+    width: 156px;
+    height: 156px;
+    border-radius: 50%;
+    background:
+        radial-gradient(circle, rgba(255, 255, 255, 0.26) 0 26%, transparent 27% 100%),
+        rgba(255, 255, 255, 0.12);
+}
+
+.preview-devbrain::after {
+    right: 30px;
+    bottom: 34px;
+    width: 114px;
+    height: 38px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.preview-orbiagents {
+    background:
+        radial-gradient(circle at 20% 18%, rgba(255, 255, 255, 0.24), transparent 16%),
+        linear-gradient(135deg, #3b2758, #8457c4 54%, #e2d8ff);
+}
+
+.preview-orbiagents::before {
+    top: 30px;
+    left: 30px;
+    width: 78px;
+    height: 78px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        96px 10px 0 -8px rgba(255, 255, 255, 0.2),
+        54px 94px 0 -14px rgba(255, 255, 255, 0.2),
+        166px 82px 0 -26px rgba(255, 255, 255, 0.18);
+}
+
+.preview-orbiagents::after {
+    right: 34px;
+    top: 46px;
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.24);
+}
+
+.preview-autoqalabs {
+    background:
+        radial-gradient(circle at 80% 18%, rgba(255, 255, 255, 0.24), transparent 16%),
+        linear-gradient(135deg, #5b2c14, #c7682e 56%, #ffe0c1);
+}
+
+.preview-autoqalabs::before {
+    top: 26px;
+    left: 28px;
+    width: 152px;
+    height: 92px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow: 0 102px 0 -26px rgba(255, 255, 255, 0.18);
+}
+
+.preview-autoqalabs::after {
+    right: 30px;
+    top: 34px;
+    width: 98px;
+    height: 118px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.24);
+}
+
 .preview-fitquick::before {
     top: 24px;
     left: 24px;
@@ -862,6 +1093,7 @@ main,
     }
 
     .hero,
+    .proof-strip,
     .intro-grid,
     .stat-band,
     .open-to-grid,
