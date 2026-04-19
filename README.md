@@ -18,6 +18,17 @@ I'm a passionate **Software Testing Professional** with over **13 years of exper
 
 I also build Android apps, developer tooling, AI-assisted workflows, learning products, and operational utilities. This repository portfolio includes both **public GitHub work** and a substantial body of **private and professional repositories**.
 
+## 📚 Quick Navigation
+
+- [Verified Repository Counts](#-verified-repository-counts)
+- [Recruiter Summary](#-recruiter-summary)
+- [Category Counts](#-category-counts)
+- [Featured Repositories](#-featured-repositories)
+- [Top 10 Repositories](#-top-10-repositories)
+- [Private Work Highlights](#-private-work-highlights)
+- [Full Repository Directory](#-full-repository-directory)
+- [Connect With Me](#-connect-with-me)
+
 ## ✅ Verified Repository Counts
 
 These counts were verified on **April 19, 2026** using my live GitHub data:
@@ -40,6 +51,16 @@ If you only want the fast version:
 - **37 public repositories and 44 private repositories**
 - **Android products, AI tooling, release automation, privacy/compliance tooling, and repository intelligence work**
 - **Public proof points plus substantial private execution**
+
+## 📊 Category Counts
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Public%20Flagship-13-1d7c63?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Public%20Privacy%20Policy-24-c4512d?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private%20Android%20Products-23-22366f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private%20AI%20%2F%20QA%20Tools-18-7b4cb0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private%20Archived-3-6b645b?style=for-the-badge">
+</div>
 
 ## 💼 Professional Background
 
@@ -114,6 +135,21 @@ These are the repositories that explain my work fastest.
   <tr><td><strong>RepoMind</strong></td><td>AI-powered repository analysis and codebase intelligence.</td><td><strong>Why it matters:</strong> Shows repository-scale analysis and engineering insight.</td></tr>
 </table>
 
+## 🔟 Top 10 Repositories
+
+If I had to point someone to the fastest shortlist, it would be:
+
+1. **DroidForge**: Android developer automation with direct workflow value.
+2. **KotlinSense**: Kotlin tooling and developer experience support.
+3. **PlayCraft**: Release automation and Play Store operations.
+4. **PrivacyPilot**: Compliance tooling that solves a concrete pain point.
+5. **QuizCraftQA**: QA expertise turned into a learning product.
+6. **DevBrainOS**: Private AI platform with codebase intelligence ambition.
+7. **OrbiAgents**: Private multi-agent orchestration work.
+8. **AutoQALabs**: Private QA automation and experiment platform.
+9. **RepoMind**: Private repository intelligence and codebase analysis work.
+10. **FitQuick / FocusPulse / HabitForge**: Private Android product cluster showing active consumer app execution.
+
 ## 🔒 Private Work Highlights
 
 The private side of my portfolio is not just “hidden repos.” It includes:
@@ -126,21 +162,21 @@ The private side of my portfolio is not just “hidden repos.” It includes:
 
 ## 🌍 Full Repository Directory
 
-### Flagship Public Products, Tools, Demos, and Learning Repositories
+### Public Flagship Products, Tools, Demos, and Learning Repositories
 <table>
-  <tr><td><strong>50-Projects-50-Days-main</strong></td><td>50 mini web projects using vanilla HTML, CSS, and JavaScript.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/50-Projects-50-Days-main">GitHub</a></td></tr>
-  <tr><td><strong>CodingResources</strong></td><td>Coding resources and learning materials.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/CodingResources">GitHub</a></td></tr>
-  <tr><td><strong>DogSpeak</strong></td><td>Dog bark translator and sound board app for Android.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/DogSpeak">GitHub</a></td></tr>
-  <tr><td><strong>DroidForge</strong></td><td>Claude Code plugin for Android developers: signing, Gradle, versioning, and scaffolding.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/DroidForge">GitHub</a></td></tr>
-  <tr><td><strong>FlyingBatAnimation</strong></td><td>Android canvas animation example and demo.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/FlyingBatAnimation">GitHub</a></td></tr>
-  <tr><td><strong>github-portfolio</strong></td><td>This portfolio website repository.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/github-portfolio">GitHub</a></td></tr>
-  <tr><td><strong>HundredsOfAppsIdeas</strong></td><td>Large collection of practical app and project ideas.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/HundredsOfAppsIdeas">GitHub</a></td></tr>
-  <tr><td><strong>KotlinSense</strong></td><td>Kotlin language server plugin for Claude Code.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/KotlinSense">GitHub</a></td></tr>
-  <tr><td><strong>PlayCraft</strong></td><td>Google Play Store publishing automation for Android developers.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/PlayCraft">GitHub</a></td></tr>
-  <tr><td><strong>PrivacyPilot</strong></td><td>Privacy policy generation and GitHub Pages deployment plugin.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/PrivacyPilot">GitHub</a></td></tr>
-  <tr><td><strong>QuizCraftQA</strong></td><td>ISTQB exam prep web app with adaptive quizzes.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA">GitHub</a></td></tr>
-  <tr><td><strong>QuizCraftQA-AI</strong></td><td>Gemini API backend for AI-powered ISTQB question generation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-AI">GitHub</a></td></tr>
-  <tr><td><strong>QuizCraftQA-NotebookLM</strong></td><td>NotebookLM workflow, prompt templates, and study guides for ISTQB prep.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM">GitHub</a></td></tr>
+  <tr><td><strong>50-Projects-50-Days-main</strong></td><td>Hands-on front-end practice set showing consistency and learning-through-building.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/50-Projects-50-Days-main">GitHub</a></td></tr>
+  <tr><td><strong>CodingResources</strong></td><td>Curated technical learning material and reference collection.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/CodingResources">GitHub</a></td></tr>
+  <tr><td><strong>DogSpeak</strong></td><td>Android app concept combining playful UX with product packaging.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/DogSpeak">GitHub</a></td></tr>
+  <tr><td><strong>DroidForge</strong></td><td>Android developer automation plugin for signing, scaffolding, Gradle, and version workflow support.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/DroidForge">GitHub</a></td></tr>
+  <tr><td><strong>FlyingBatAnimation</strong></td><td>Focused Android animation demo showing graphics-side experimentation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/FlyingBatAnimation">GitHub</a></td></tr>
+  <tr><td><strong>github-portfolio</strong></td><td>Portfolio site repository used to present the broader repo ecosystem clearly.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/github-portfolio">GitHub</a></td></tr>
+  <tr><td><strong>HundredsOfAppsIdeas</strong></td><td>Large product idea bank showing breadth of product thinking and ideation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/HundredsOfAppsIdeas">GitHub</a></td></tr>
+  <tr><td><strong>KotlinSense</strong></td><td>Kotlin developer tooling focused on diagnostics, imports, and navigation support.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/KotlinSense">GitHub</a></td></tr>
+  <tr><td><strong>PlayCraft</strong></td><td>Google Play release automation covering listings, release notes, declarations, and publishing workflows.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/PlayCraft">GitHub</a></td></tr>
+  <tr><td><strong>PrivacyPilot</strong></td><td>Compliance tooling for generating and deploying privacy policies with less manual work.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/PrivacyPilot">GitHub</a></td></tr>
+  <tr><td><strong>QuizCraftQA</strong></td><td>ISTQB preparation product built around QA knowledge, adaptive study, and practical exam prep.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA">GitHub</a></td></tr>
+  <tr><td><strong>QuizCraftQA-AI</strong></td><td>AI backend that extends QuizCraftQA with generated study content.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-AI">GitHub</a></td></tr>
+  <tr><td><strong>QuizCraftQA-NotebookLM</strong></td><td>Study workflow and prompt support for QA-focused learning sessions.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM">GitHub</a></td></tr>
 </table>
 
 ## 🔒 Private Repository Portfolio
@@ -236,7 +272,7 @@ These repositories are part of the portfolio, but they are not publicly accessib
 This repository footprint reflects a mix of:
 
 - Public GitHub work that can be reviewed directly
-- Featured public tools that demonstrate release, compliance, Android, and QA depth
+- Featured public tools that demonstrate release, compliance, Android, AI, and QA depth
 - Private Android applications and product experiments
 - QA-focused and AI-assisted tooling
 - Automation, orchestration, compliance, and developer productivity systems
