@@ -1027,6 +1027,87 @@ main,
     background: rgba(255, 255, 255, 0.24);
 }
 
+.preview-claudewrangler {
+    background:
+        radial-gradient(circle at 78% 18%, rgba(255, 255, 255, 0.24), transparent 16%),
+        linear-gradient(135deg, #283043, #4d628c 52%, #dce7ff);
+}
+
+.preview-claudewrangler::before {
+    top: 28px;
+    left: 28px;
+    width: 150px;
+    height: 88px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        0 102px 0 -30px rgba(255, 255, 255, 0.16),
+        180px 24px 0 -46px rgba(255, 255, 255, 0.2);
+}
+
+.preview-claudewrangler::after {
+    right: 28px;
+    bottom: 30px;
+    width: 120px;
+    height: 42px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.preview-repomind {
+    background:
+        radial-gradient(circle at 22% 20%, rgba(255, 255, 255, 0.26), transparent 16%),
+        linear-gradient(135deg, #24424a, #4d8a96 54%, #d8f4f8);
+}
+
+.preview-repomind::before {
+    top: 26px;
+    left: 30px;
+    width: 124px;
+    height: 124px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.22);
+    box-shadow:
+        146px 10px 0 -26px rgba(255, 255, 255, 0.22),
+        162px 98px 0 -52px rgba(29, 26, 23, 0.14);
+}
+
+.preview-repomind::after {
+    right: 34px;
+    top: 34px;
+    width: 88px;
+    height: 110px;
+    border-radius: 26px;
+    background: rgba(255, 255, 255, 0.24);
+}
+
+.preview-signagecheck {
+    background:
+        radial-gradient(circle at 80% 18%, rgba(255, 255, 255, 0.24), transparent 16%),
+        linear-gradient(135deg, #355018, #7fb03f 56%, #eff7c8);
+}
+
+.preview-signagecheck::before {
+    top: 28px;
+    left: 30px;
+    width: 132px;
+    height: 96px;
+    border-radius: 26px;
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow:
+        126px 104px 0 -30px rgba(29, 26, 23, 0.12),
+        152px 40px 0 -42px rgba(255, 255, 255, 0.18);
+}
+
+.preview-signagecheck::after {
+    right: 28px;
+    bottom: 30px;
+    width: 112px;
+    height: 34px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.34);
+}
+
 .preview-fitquick::before {
     top: 24px;
     left: 24px;
