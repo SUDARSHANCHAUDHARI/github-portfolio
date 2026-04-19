@@ -101,34 +101,6 @@ That means older numbers like `39+` or `59` were incomplete. This README has bee
   <tr><td><strong>QuizCraftQA-NotebookLM</strong></td><td>NotebookLM workflow, prompt templates, and study guides for ISTQB prep.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA-NotebookLM">GitHub</a></td></tr>
 </table>
 
-### Public Privacy Policy and Compliance Repositories
-<table>
-  <tr><td><strong>dreamweave-privacy-policy</strong></td><td>Privacy policy for DreamWeave.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/dreamweave-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>droidforge-claude-plugin-privacy-policy</strong></td><td>Privacy policy for DroidForge.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/droidforge-claude-plugin-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>fitquick-privacy-policy</strong></td><td>Privacy policy for FitQuick.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/fitquick-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>focuspulse-privacy-policy</strong></td><td>Privacy policy for FocusPulse.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/focuspulse-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>gratitudeglow-privacy-policy</strong></td><td>Privacy policy for GratitudeGlow.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/gratitudeglow-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>gravitywins-privacy-policy</strong></td><td>Privacy policy for GravityWins.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/gravitywins-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>habitforge-privacy-policy</strong></td><td>Privacy policy for HabitForge.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/habitforge-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>hydratrack-privacy-policy</strong></td><td>Privacy policy for HydraTrack.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/hydratrack-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>kotlinsense-claude-plugin-privacy-policy</strong></td><td>Privacy policy for KotlinSense.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/kotlinsense-claude-plugin-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>lifechronicle-privacy-policy</strong></td><td>Privacy policy for LifeChronicle.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/lifechronicle-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>manifestmojo-privacy-policy</strong></td><td>Privacy policy for ManifestMojo.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/manifestmojo-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>moodflow-privacy-policy</strong></td><td>Privacy policy for MoodFlow.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/moodflow-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>myfamilytracker-privacy-policy</strong></td><td>Privacy policy for MyFamilyTracker.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/myfamilytracker-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>playcraft-claude-plugin-privacy-policy</strong></td><td>Privacy policy for PlayCraft.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/playcraft-claude-plugin-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>pocketdeskies-privacy-policy</strong></td><td>Privacy policy for PocketDeskies Android and macOS.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/pocketdeskies-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>privacypilot-claude-plugin-privacy-policy</strong></td><td>Privacy policy for PrivacyPilot.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/privacypilot-claude-plugin-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>quizcraftqa-privacy-policy</strong></td><td>Privacy policy for QuizCraftQA.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/quizcraftqa-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>rainlock-privacy-policy</strong></td><td>Privacy policy for Rain Lock.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/rainlock-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>remindtodeleteapps-privacy-policy</strong></td><td>Privacy policy for RemindToDeleteApps.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/remindtodeleteapps-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>remindtodeletemedia-privacy-policy</strong></td><td>Privacy policy for RemindToDeleteMedia.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/remindtodeletemedia-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>sleepsync-privacy-policy</strong></td><td>Privacy policy for SleepSync.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/sleepsync-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>sofaryetsoclose-privacy-policy</strong></td><td>Privacy policy for SoFarYetSoClose.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/sofaryetsoclose-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>spendwise-privacy-policy</strong></td><td>Privacy policy for SpendWise.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/spendwise-privacy-policy">GitHub</a></td></tr>
-  <tr><td><strong>testapp-privacy-policy</strong></td><td>Test privacy policy repository for plugin workflow validation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/testapp-privacy-policy">GitHub</a></td></tr>
-</table>
-
 ## 🔒 Private Repository Portfolio
 
 These repositories are part of the portfolio, but they are not publicly accessible. I am listing them here to represent the full scope of work more honestly.
@@ -180,6 +152,34 @@ These repositories are part of the portfolio, but they are not publicly accessib
   <tr><td><strong>Synaptiq</strong></td><td>Production AI agent debugging, loop detection, and cost tracking.</td><td>Private</td></tr>
   <tr><td><strong>TokenOPS</strong></td><td>API token management and operations tooling.</td><td>Private</td></tr>
   <tr><td><strong>website-monitor</strong></td><td>Website monitoring tool.</td><td>Private</td></tr>
+</table>
+
+### Public Privacy Policy and Compliance Repositories
+<table>
+  <tr><td><strong>dreamweave-privacy-policy</strong></td><td>Privacy policy for DreamWeave.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/dreamweave-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>droidforge-claude-plugin-privacy-policy</strong></td><td>Privacy policy for DroidForge.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/droidforge-claude-plugin-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>fitquick-privacy-policy</strong></td><td>Privacy policy for FitQuick.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/fitquick-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>focuspulse-privacy-policy</strong></td><td>Privacy policy for FocusPulse.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/focuspulse-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>gratitudeglow-privacy-policy</strong></td><td>Privacy policy for GratitudeGlow.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/gratitudeglow-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>gravitywins-privacy-policy</strong></td><td>Privacy policy for GravityWins.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/gravitywins-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>habitforge-privacy-policy</strong></td><td>Privacy policy for HabitForge.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/habitforge-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>hydratrack-privacy-policy</strong></td><td>Privacy policy for HydraTrack.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/hydratrack-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>kotlinsense-claude-plugin-privacy-policy</strong></td><td>Privacy policy for KotlinSense.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/kotlinsense-claude-plugin-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>lifechronicle-privacy-policy</strong></td><td>Privacy policy for LifeChronicle.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/lifechronicle-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>manifestmojo-privacy-policy</strong></td><td>Privacy policy for ManifestMojo.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/manifestmojo-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>moodflow-privacy-policy</strong></td><td>Privacy policy for MoodFlow.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/moodflow-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>myfamilytracker-privacy-policy</strong></td><td>Privacy policy for MyFamilyTracker.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/myfamilytracker-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>playcraft-claude-plugin-privacy-policy</strong></td><td>Privacy policy for PlayCraft.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/playcraft-claude-plugin-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>pocketdeskies-privacy-policy</strong></td><td>Privacy policy for PocketDeskies Android and macOS.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/pocketdeskies-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>privacypilot-claude-plugin-privacy-policy</strong></td><td>Privacy policy for PrivacyPilot.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/privacypilot-claude-plugin-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>quizcraftqa-privacy-policy</strong></td><td>Privacy policy for QuizCraftQA.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/quizcraftqa-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>rainlock-privacy-policy</strong></td><td>Privacy policy for Rain Lock.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/rainlock-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>remindtodeleteapps-privacy-policy</strong></td><td>Privacy policy for RemindToDeleteApps.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/remindtodeleteapps-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>remindtodeletemedia-privacy-policy</strong></td><td>Privacy policy for RemindToDeleteMedia.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/remindtodeletemedia-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>sleepsync-privacy-policy</strong></td><td>Privacy policy for SleepSync.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/sleepsync-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>sofaryetsoclose-privacy-policy</strong></td><td>Privacy policy for SoFarYetSoClose.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/sofaryetsoclose-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>spendwise-privacy-policy</strong></td><td>Privacy policy for SpendWise.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/spendwise-privacy-policy">GitHub</a></td></tr>
+  <tr><td><strong>testapp-privacy-policy</strong></td><td>Test privacy policy repository for plugin workflow validation.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/testapp-privacy-policy">GitHub</a></td></tr>
 </table>
 
 ### Archived or Superseded Private Repositories
