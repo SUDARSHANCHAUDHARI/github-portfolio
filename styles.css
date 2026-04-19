@@ -802,7 +802,7 @@ main,
     background: rgba(196, 81, 45, 0.08);
 }
 
-.project-preview {
+.preview-panel {
     position: relative;
     min-height: 180px;
     margin-bottom: 22px;
@@ -812,14 +812,14 @@ main,
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 
-.project-preview::before,
-.project-preview::after {
+.preview-panel::before,
+.preview-panel::after {
     content: "";
     position: absolute;
     inset: auto;
 }
 
-.project-preview span {
+.preview-badge {
     position: absolute;
     left: 18px;
     bottom: 18px;
@@ -1387,7 +1387,7 @@ main,
         line-height: 1.65;
     }
 
-    .project-preview {
+    .preview-panel {
         min-height: 152px;
         margin-bottom: 18px;
     }
