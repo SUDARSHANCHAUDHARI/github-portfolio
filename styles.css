@@ -432,6 +432,7 @@ main,
     background: rgba(255, 251, 245, 0.7);
 }
 
+.section-panel,
 .recruiter-panel {
     padding: 32px;
     border: 1px solid var(--line);
@@ -442,12 +443,39 @@ main,
     box-shadow: var(--shadow);
 }
 
+.section-panel > .section-heading,
 .recruiter-panel .section-heading {
     margin-bottom: 24px;
 }
 
+.section-panel > .stat-band,
 .recruiter-panel .stat-band {
     margin-bottom: 0;
+}
+
+.projects-panel > .section-heading,
+.projects-panel > .feature-cluster,
+.projects-panel > .feature-grid,
+.projects-panel > .filter-bar,
+.projects-panel > .repo-directory {
+    margin-bottom: 24px;
+}
+
+.projects-panel > .section-heading:last-of-type,
+.projects-panel > .repo-directory:last-of-type {
+    margin-bottom: 0;
+}
+
+.subsection-panel {
+    margin: 4px 0 24px;
+}
+
+.subsection-panel .top-ten {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
 }
 
 .intro-grid {
@@ -1245,6 +1273,7 @@ main,
     .hero-panel,
     .hero-spotlight,
     .intro,
+    .section-panel,
     .recruiter-panel,
     .project-card,
     .strength-card,
