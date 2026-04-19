@@ -320,12 +320,101 @@ main,
     gap: 22px;
 }
 
+.stat-band {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 18px;
+    margin-bottom: 24px;
+}
+
+.mini-stat,
+.repo-group {
+    border: 1px solid var(--line);
+    border-radius: 24px;
+    background: rgba(255, 251, 245, 0.78);
+    box-shadow: var(--shadow);
+}
+
+.mini-stat {
+    padding: 22px;
+    display: grid;
+    gap: 6px;
+}
+
+.mini-stat strong {
+    font-size: 2.2rem;
+    line-height: 1;
+}
+
+.mini-stat span {
+    color: var(--muted);
+}
+
 .project-card,
 .strength-card,
 .contact-section {
     padding: 28px;
     border-radius: var(--radius);
     background: rgba(255, 251, 245, 0.78);
+}
+
+.repo-directory {
+    display: grid;
+    gap: 18px;
+}
+
+.repo-group {
+    overflow: hidden;
+}
+
+.repo-group summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 22px 24px;
+    font-weight: 700;
+    font-size: 1.08rem;
+}
+
+.repo-group summary::-webkit-details-marker {
+    display: none;
+}
+
+.repo-group[open] summary {
+    border-bottom: 1px solid var(--line);
+    background: rgba(196, 81, 45, 0.06);
+}
+
+.repo-list {
+    margin: 0;
+    padding: 18px 24px 24px;
+    list-style: none;
+    display: grid;
+    gap: 14px;
+}
+
+.repo-list li {
+    display: grid;
+    gap: 4px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--line);
+}
+
+.repo-list li:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.repo-list a,
+.repo-name {
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+}
+
+.repo-list span:last-child {
+    color: var(--muted);
+    line-height: 1.6;
 }
 
 .project-preview {
@@ -584,6 +673,7 @@ main,
 
     .hero,
     .intro-grid,
+    .stat-band,
     .project-grid,
     .strength-grid,
     .timeline-item {
