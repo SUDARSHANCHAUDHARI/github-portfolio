@@ -418,16 +418,8 @@ main,
 }
 
 .section-heading h2 {
-    max-width: 12ch;
-    font-size: clamp(2.3rem, 5vw, 4.1rem);
-}
-
-.section-heading-wide h2 {
-    max-width: 18ch;
-}
-
-.section-heading-about h2 {
     max-width: none;
+    font-size: clamp(2.3rem, 5vw, 4.1rem);
 }
 
 .intro {
