@@ -62,3 +62,42 @@ const yearElement = document.getElementById("year");
 if (yearElement) {
     yearElement.textContent = new Date().getFullYear();
 }
+
+const repoSearch = document.getElementById("repo-search");
+const filterChips = [...document.querySelectorAll(".filter-chip")];
+const repoGroups = [...document.querySelectorAll(".repo-group")];
+
+let activeFilter = "all";
+
+function updateRepoFilters() {
+    const searchValue = (repoSearch?.value || "").trim().toLowerCase();
+
+    repoGroups.forEach((group) => {
+        const summary = group.querySelector("summary");
+        const tags = (summary?.dataset.tags || "").toLowerCase();
+        const text = group.textContent.toLowerCase();
+
+        const matchesFilter = activeFilter === "all" || tags.includes(activeFilter);
+        const matchesSearch = !searchValue || text.includes(searchValue);
+        const shouldShow = matchesFilter && matchesSearch;
+
+        group.classList.toggle("is-hidden", !shouldShow);
+        if (shouldShow && searchValue) {
+            group.open = true;
+        }
+    });
+}
+
+filterChips.forEach((chip) => {
+    chip.addEventListener("click", () => {
+        activeFilter = chip.dataset.filter || "all";
+        filterChips.forEach((button) => {
+            button.classList.toggle("is-active", button === chip);
+        });
+        updateRepoFilters();
+    });
+});
+
+if (repoSearch) {
+    repoSearch.addEventListener("input", updateRepoFilters);
+}

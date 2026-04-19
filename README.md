@@ -31,6 +31,16 @@ These counts were verified on **April 19, 2026** using my live GitHub data:
 
 That means older numbers like `39+` or `59` were incomplete. This README has been updated to reflect the fuller portfolio properly.
 
+## 🎯 Recruiter Summary
+
+If you only want the fast version:
+
+- **13+ years in QA and software testing**
+- **81 verified non-fork repositories**
+- **37 public repositories and 44 private repositories**
+- **Android products, AI tooling, release automation, privacy/compliance tooling, and repository intelligence work**
+- **Public proof points plus substantial private execution**
+
 ## 💼 Professional Background
 
 <div align="center">
@@ -82,9 +92,41 @@ That means older numbers like `39+` or `59` were incomplete. This README has bee
   <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white">
 </div>
 
-## 🌍 Public Repository Directory
+## ⭐ Featured Repositories
 
-### Products, Tools, Demos, and Learning Repositories
+These are the repositories that explain my work fastest.
+
+### Public Highlights
+<table>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/DroidForge">DroidForge</a></strong></td><td>Android developer plugin for signing, Gradle, versioning, and scaffolding.</td><td><strong>Why it matters:</strong> Shows Android workflow depth and practical automation.</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/KotlinSense">KotlinSense</a></strong></td><td>Kotlin language server plugin for Claude Code.</td><td><strong>Why it matters:</strong> Shows language tooling depth and developer experience work.</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PlayCraft">PlayCraft</a></strong></td><td>Google Play publishing automation for Android developers.</td><td><strong>Why it matters:</strong> Shows release operations, compliance, and delivery discipline.</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/PrivacyPilot">PrivacyPilot</a></strong></td><td>Privacy policy generation and GitHub Pages deployment plugin.</td><td><strong>Why it matters:</strong> Shows productization around real developer compliance pain points.</td></tr>
+  <tr><td><strong><a href="https://github.com/SUDARSHANCHAUDHARI/QuizCraftQA">QuizCraftQA</a></strong></td><td>ISTQB exam prep web app with adaptive quizzes.</td><td><strong>Why it matters:</strong> Connects QA domain knowledge to product building.</td></tr>
+</table>
+
+### Private Highlights
+<table>
+  <tr><td><strong>DevBrainOS</strong></td><td>Local-first codebase intelligence and multi-agent memory system.</td><td><strong>Why it matters:</strong> Shows deeper AI platform ambition and systems thinking.</td></tr>
+  <tr><td><strong>OrbiAgents</strong></td><td>Multi-agent AI orchestration platform.</td><td><strong>Why it matters:</strong> Shows coordination and orchestration thinking beyond single-use tools.</td></tr>
+  <tr><td><strong>AutoQALabs</strong></td><td>Automated QA testing lab and experimentation workspace.</td><td><strong>Why it matters:</strong> Directly ties my QA background to tooling and automation.</td></tr>
+  <tr><td><strong>ClaudeWrangler</strong></td><td>Claude AI workflow management and prompt orchestration.</td><td><strong>Why it matters:</strong> Shows operational understanding of AI-assisted work.</td></tr>
+  <tr><td><strong>RepoMind</strong></td><td>AI-powered repository analysis and codebase intelligence.</td><td><strong>Why it matters:</strong> Shows repository-scale analysis and engineering insight.</td></tr>
+</table>
+
+## 🔒 Private Work Highlights
+
+The private side of my portfolio is not just “hidden repos.” It includes:
+
+- Android consumer apps and utilities
+- AI tooling and repository intelligence projects
+- QA automation workspaces
+- Orchestration and prompt workflow systems
+- Archived repo lines that later became stronger public tools
+
+## 🌍 Full Repository Directory
+
+### Flagship Public Products, Tools, Demos, and Learning Repositories
 <table>
   <tr><td><strong>50-Projects-50-Days-main</strong></td><td>50 mini web projects using vanilla HTML, CSS, and JavaScript.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/50-Projects-50-Days-main">GitHub</a></td></tr>
   <tr><td><strong>CodingResources</strong></td><td>Coding resources and learning materials.</td><td><a href="https://github.com/SUDARSHANCHAUDHARI/CodingResources">GitHub</a></td></tr>
@@ -194,6 +236,7 @@ These repositories are part of the portfolio, but they are not publicly accessib
 This repository footprint reflects a mix of:
 
 - Public GitHub work that can be reviewed directly
+- Featured public tools that demonstrate release, compliance, Android, and QA depth
 - Private Android applications and product experiments
 - QA-focused and AI-assisted tooling
 - Automation, orchestration, compliance, and developer productivity systems

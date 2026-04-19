@@ -314,7 +314,9 @@ main,
 }
 
 .project-grid,
-.strength-grid {
+.strength-grid,
+.feature-grid,
+.highlight-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 22px;
@@ -352,10 +354,39 @@ main,
 
 .project-card,
 .strength-card,
-.contact-section {
+.contact-section,
+.feature-card {
     padding: 28px;
     border-radius: var(--radius);
     background: rgba(255, 251, 245, 0.78);
+}
+
+.feature-card {
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow);
+}
+
+.feature-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.45rem;
+}
+
+.feature-card h3 a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+}
+
+.feature-meta {
+    margin: 0 0 10px;
+    color: var(--accent-deep);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.feature-why {
+    margin: 12px 0 0;
 }
 
 .repo-directory {
@@ -365,6 +396,10 @@ main,
 
 .repo-group {
     overflow: hidden;
+}
+
+.repo-group.is-hidden {
+    display: none;
 }
 
 .repo-group summary {
@@ -415,6 +450,43 @@ main,
 .repo-list span:last-child {
     color: var(--muted);
     line-height: 1.6;
+}
+
+.filter-bar {
+    display: grid;
+    gap: 16px;
+    margin-bottom: 22px;
+}
+
+.repo-search {
+    width: 100%;
+    padding: 15px 18px;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    background: rgba(255, 251, 245, 0.85);
+    font: inherit;
+    color: var(--ink);
+}
+
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.filter-chip {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 10px 14px;
+    background: rgba(255, 251, 245, 0.78);
+    color: var(--ink);
+    font: inherit;
+    cursor: pointer;
+}
+
+.filter-chip.is-active {
+    background: var(--ink);
+    color: #fff;
 }
 
 .project-preview {
@@ -676,6 +748,8 @@ main,
     .stat-band,
     .project-grid,
     .strength-grid,
+    .feature-grid,
+    .highlight-grid,
     .timeline-item {
         grid-template-columns: 1fr;
     }
