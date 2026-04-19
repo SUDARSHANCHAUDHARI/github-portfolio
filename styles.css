@@ -370,6 +370,12 @@ main,
     margin-bottom: 24px;
 }
 
+.open-to-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+}
+
 .mini-stat,
 .repo-group {
     border: 1px solid var(--line);
@@ -393,6 +399,23 @@ main,
     color: var(--muted);
 }
 
+.open-to-grid .mini-stat {
+    padding: 24px;
+    gap: 10px;
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 251, 245, 0.88)),
+        rgba(255, 251, 245, 0.82);
+}
+
+.open-to-grid .mini-stat strong {
+    font-size: 1.18rem;
+    line-height: 1.2;
+}
+
+.open-to-grid .mini-stat span {
+    line-height: 1.65;
+}
+
 .project-card,
 .strength-card,
 .contact-section,
@@ -403,12 +426,37 @@ main,
 }
 
 .feature-card {
+    position: relative;
+    overflow: hidden;
     border: 1px solid var(--line);
     box-shadow: var(--shadow);
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.08), rgba(255, 251, 245, 0.94) 34%),
+        rgba(255, 251, 245, 0.82);
+    transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.feature-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 28px;
+    width: 88px;
+    height: 4px;
+    border-radius: 999px;
+    background: linear-gradient(90deg, var(--accent), var(--accent-soft));
+}
+
+.feature-card:hover,
+.feature-card:focus-within {
+    transform: translateY(-4px);
+    border-color: rgba(126, 47, 25, 0.18);
+    box-shadow: 0 26px 70px rgba(83, 53, 22, 0.16);
 }
 
 .feature-card h3 {
     margin: 0 0 10px;
+    padding-top: 8px;
     font-size: 1.45rem;
 }
 
@@ -428,6 +476,8 @@ main,
 
 .feature-why {
     margin: 12px 0 0;
+    padding-top: 12px;
+    border-top: 1px solid rgba(29, 26, 23, 0.08);
 }
 
 .repo-directory {
@@ -528,6 +578,33 @@ main,
 .filter-chip.is-active {
     background: var(--ink);
     color: #fff;
+}
+
+.mini-stat,
+.strength-card,
+.repo-group summary,
+.filter-chip {
+    transition: transform 180ms ease, border-color 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
+}
+
+.mini-stat:hover,
+.mini-stat:focus-within,
+.strength-card:hover,
+.strength-card:focus-within {
+    transform: translateY(-3px);
+    border-color: rgba(126, 47, 25, 0.16);
+    box-shadow: 0 24px 64px rgba(83, 53, 22, 0.14);
+}
+
+.repo-group summary:hover,
+.repo-group summary:focus-visible {
+    background: rgba(196, 81, 45, 0.06);
+}
+
+.filter-chip:hover,
+.filter-chip:focus-visible {
+    transform: translateY(-2px);
+    border-color: rgba(126, 47, 25, 0.16);
 }
 
 .project-preview {
@@ -787,6 +864,7 @@ main,
     .hero,
     .intro-grid,
     .stat-band,
+    .open-to-grid,
     .project-grid,
     .strength-grid,
     .feature-grid,
