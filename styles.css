@@ -432,6 +432,24 @@ main,
     background: rgba(255, 251, 245, 0.7);
 }
 
+.recruiter-panel {
+    padding: 32px;
+    border: 1px solid var(--line);
+    border-radius: calc(var(--radius) + 4px);
+    background:
+        linear-gradient(180deg, rgba(196, 81, 45, 0.06), rgba(255, 251, 245, 0.88)),
+        rgba(255, 251, 245, 0.78);
+    box-shadow: var(--shadow);
+}
+
+.recruiter-panel .section-heading {
+    margin-bottom: 24px;
+}
+
+.recruiter-panel .stat-band {
+    margin-bottom: 0;
+}
+
 .intro-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1227,6 +1245,7 @@ main,
     .hero-panel,
     .hero-spotlight,
     .intro,
+    .recruiter-panel,
     .project-card,
     .strength-card,
     .contact-section,
