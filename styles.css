@@ -426,6 +426,10 @@ main,
     max-width: 18ch;
 }
 
+.section-heading-about h2 {
+    max-width: 24ch;
+}
+
 .intro {
     padding: 32px;
     border-radius: var(--radius);
