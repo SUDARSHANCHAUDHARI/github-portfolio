@@ -127,8 +127,7 @@ main,
 }
 
 .nav-badge,
-.hero-badge,
-.jump-links a {
+.hero-badge {
     display: inline-flex;
     align-items: center;
     min-height: 34px;
@@ -142,12 +141,6 @@ main,
     letter-spacing: 0.05em;
     text-transform: uppercase;
     text-decoration: none;
-}
-
-.jump-links a.is-active {
-    background: var(--ink);
-    color: #fff;
-    border-color: var(--ink);
 }
 
 .nav-toggle {
@@ -407,24 +400,6 @@ main,
 .cluster-text {
     color: var(--muted);
     line-height: 1.65;
-}
-
-.section-jump {
-    padding-top: 6px;
-    position: sticky;
-    top: calc(var(--nav-height) + var(--nav-offset) + 8px);
-    z-index: 18;
-}
-
-.jump-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    padding: 14px 16px;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    background: rgba(255, 248, 239, 0.76);
-    backdrop-filter: blur(18px);
 }
 
 .section-heading {
@@ -821,8 +796,6 @@ main,
     border-color: rgba(126, 47, 25, 0.16);
 }
 
-.jump-links a:hover,
-.jump-links a:focus-visible,
 .nav-badge:hover,
 .hero-badge:hover {
     border-color: rgba(126, 47, 25, 0.16);
@@ -1282,17 +1255,6 @@ main,
 
     .nav-links.is-open {
         display: flex;
-    }
-
-    .section-jump {
-        position: static;
-        padding-top: 2px;
-    }
-
-    .jump-links {
-        border-radius: 28px;
-        padding: 14px;
-        gap: 10px;
     }
 
     .hero,
