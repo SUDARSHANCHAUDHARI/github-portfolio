@@ -12,6 +12,8 @@
     --shadow: 0 20px 60px rgba(83, 53, 22, 0.12);
     --radius: 28px;
     --max-width: 1180px;
+    --nav-offset: 20px;
+    --nav-height: 94px;
 }
 
 * {
@@ -43,7 +45,7 @@ img {
 }
 
 .page-shell {
-    padding: 20px;
+    padding: calc(var(--nav-height) + 28px) 20px 20px;
 }
 
 .site-header,
@@ -59,14 +61,26 @@ main,
     justify-content: space-between;
     gap: 24px;
     padding: 18px 24px;
-    margin-top: 8px;
     border: 1px solid var(--line);
     border-radius: 999px;
     background: rgba(255, 248, 239, 0.72);
     backdrop-filter: blur(18px);
-    position: sticky;
-    top: 16px;
-    z-index: 20;
+    position: fixed;
+    top: var(--nav-offset);
+    left: 50%;
+    width: min(calc(100% - 40px), var(--max-width));
+    transform: translateX(-50%);
+    z-index: 40;
+}
+
+.section,
+.hero,
+#about,
+#work,
+#projects,
+#strengths,
+#contact {
+    scroll-margin-top: calc(var(--nav-height) + 36px);
 }
 
 .brand {
@@ -1110,14 +1124,20 @@ main,
 }
 
 @media (max-width: 900px) {
+    :root {
+        --nav-offset: 16px;
+        --nav-height: 88px;
+    }
+
     .page-shell {
-        padding: 16px;
+        padding: calc(var(--nav-height) + 20px) 16px 16px;
     }
 
     .nav {
         border-radius: 30px;
         padding: 16px 18px;
         flex-wrap: wrap;
+        width: calc(100% - 32px);
     }
 
     .nav-toggle {
