@@ -515,6 +515,18 @@ main,
     margin-bottom: 24px;
 }
 
+.recruiter-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.recruiter-grid > .mini-stat:nth-child(-n + 3) {
+    grid-column: span 2;
+}
+
+.recruiter-grid > .mini-stat:nth-child(n + 4) {
+    grid-column: span 3;
+}
+
 .open-to-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
