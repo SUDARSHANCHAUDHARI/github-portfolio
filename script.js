@@ -1,6 +1,7 @@
 const navToggle = document.querySelector(".nav-toggle");
 const navLinks = document.querySelector(".nav-links");
 const links = [...document.querySelectorAll('.nav-links a[href^="#"]')];
+const jumpLinks = [...document.querySelectorAll('.jump-links a[href^="#"]')];
 const sections = links
     .map((link) => document.querySelector(link.getAttribute("href")))
     .filter(Boolean);
@@ -43,6 +44,11 @@ const sectionObserver = new IntersectionObserver(
             }
 
             links.forEach((link) => {
+                const isMatch = link.getAttribute("href") === `#${entry.target.id}`;
+                link.classList.toggle("is-active", isMatch);
+            });
+
+            jumpLinks.forEach((link) => {
                 const isMatch = link.getAttribute("href") === `#${entry.target.id}`;
                 link.classList.toggle("is-active", isMatch);
             });

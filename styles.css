@@ -144,6 +144,12 @@ main,
     text-decoration: none;
 }
 
+.jump-links a.is-active {
+    background: var(--ink);
+    color: #fff;
+    border-color: var(--ink);
+}
+
 .nav-toggle {
     display: none;
     border: 1px solid var(--line);
@@ -405,12 +411,20 @@ main,
 
 .section-jump {
     padding-top: 6px;
+    position: sticky;
+    top: calc(var(--nav-height) + var(--nav-offset) + 8px);
+    z-index: 18;
 }
 
 .jump-links {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
+    padding: 14px 16px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 248, 239, 0.76);
+    backdrop-filter: blur(18px);
 }
 
 .section-heading {
@@ -452,6 +466,21 @@ main,
 .projects-stack {
     display: grid;
     gap: 24px;
+}
+
+.projects-stack .section-panel {
+    position: relative;
+}
+
+.projects-stack .section-panel::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 32px;
+    width: 112px;
+    height: 4px;
+    border-radius: 999px;
+    background: linear-gradient(90deg, var(--accent), rgba(243, 195, 141, 0.9));
 }
 
 .section-panel .top-ten {
@@ -1201,6 +1230,15 @@ main,
     text-align: center;
 }
 
+.footer-summary {
+    margin: 0 0 12px;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-deep);
+}
+
 .reveal {
     opacity: 0;
     transform: translateY(22px);
@@ -1244,6 +1282,17 @@ main,
 
     .nav-links.is-open {
         display: flex;
+    }
+
+    .section-jump {
+        position: static;
+        padding-top: 2px;
+    }
+
+    .jump-links {
+        border-radius: 28px;
+        padding: 14px;
+        gap: 10px;
     }
 
     .hero,
@@ -1323,8 +1372,27 @@ main,
         padding: 20px;
     }
 
+    .section-panel,
+    .recruiter-panel {
+        padding: 24px;
+    }
+
+    .projects-stack {
+        gap: 20px;
+    }
+
+    .projects-stack .section-panel::before {
+        left: 24px;
+        width: 88px;
+    }
+
     .section-heading {
         margin-bottom: 18px;
+    }
+
+    .footer-summary {
+        line-height: 1.7;
+        padding: 0 12px;
     }
 }
 
