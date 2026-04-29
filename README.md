@@ -31,13 +31,13 @@ I also build Android apps, developer tooling, AI-assisted workflows, learning pr
 
 ## ✅ Verified Repository Counts
 
-These counts were verified on **April 19, 2026** using my live GitHub data:
+These counts were verified on **April 29, 2026** using my live GitHub data:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-81-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Public-37-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Private-44-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Non--Fork-81-6f42c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Total%20Repos-91-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Public-41-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private-50-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Non--Fork-91-6f42c1?style=for-the-badge">
 </div>
 
 That means older numbers like `39+` or `59` were incomplete. This README has been updated to reflect the fuller portfolio properly.
@@ -47,8 +47,8 @@ That means older numbers like `39+` or `59` were incomplete. This README has bee
 If you only want the fast version:
 
 - **13+ years in QA and software testing**
-- **81 verified non-fork repositories**
-- **37 public repositories and 44 private repositories**
+- **91 verified non-fork repositories**
+- **41 public repositories and 50 private repositories**
 - **Android products, AI tooling, release automation, privacy/compliance tooling, and repository intelligence work**
 - **Public proof points plus substantial private execution**
 
@@ -56,9 +56,9 @@ If you only want the fast version:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Public%20Flagship-13-1d7c63?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Public%20Privacy%20Policy-24-c4512d?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Private%20Android%20Products-23-22366f?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Private%20AI%20%2F%20QA%20Tools-18-7b4cb0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Public%20Privacy%20Policy-28-c4512d?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private%20Android%20Products-25-22366f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Private%20AI%20%2F%20QA%20Tools-22-7b4cb0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Private%20Archived-3-6b645b?style=for-the-badge">
 </div>
 
@@ -287,7 +287,7 @@ This repository footprint reflects a mix of:
   <a href="https://github.com/SUDARSHANCHAUDHARI">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://sudarshanchaudhari.github.io/github-portfolio/">
+  <a href="https://portfolio.sudarshantechlabs.com">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-c4512d?style=for-the-badge">
   </a>
 </div>
