@@ -26,6 +26,7 @@ Android developer, AI tooling builder, and QA engineer with **13+ years of engin
 - [Featured Repositories](#-featured-repositories)
 - [Top 10 Repositories](#-top-10-repositories)
 - [Private Work Highlights](#-private-work-highlights)
+- [Repository Catalog](#-repository-catalog)
 - [Full Repository Directory](#-full-repository-directory)
 - [Connect With Me](#-connect-with-me)
 
@@ -158,6 +159,10 @@ The private side of my portfolio is not just “hidden repos.” It includes:
 - QA automation workspaces
 - Orchestration and prompt workflow systems
 - Archived repo lines that later became stronger public tools
+
+## 🗂️ Repository Catalog
+
+[SudarshanReposCatalog](https://github.com/SUDARSHANCHAUDHARI/SudarshanReposCatalog) is my private master directory for 18 category catalogs covering 337 repositories. It provides the owner view of the full repository hierarchy; public visitors can use the curated directory below.
 
 ## 🌍 Full Repository Directory
 
